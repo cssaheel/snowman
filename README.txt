@@ -1,6 +1,4 @@
-Project 8: (AbdelIlah Alsohail)
-
-Game with Ice cubes.
+SnowMan Game with Ice cubes.
 
 Random Ice cubes are created randomly on an ice platform. 4 random ghosts move randomly between the cubes. A character controlled by the player using the keyboard, can also move between the cubes and should avoid to be touched by the ghosts. In case of collision with a ghost, it dies and the player loses.
 
